@@ -35,6 +35,10 @@ While syringe pumps have been around for quite a long time, the first ones are f
 | End Supports    | 2        |
 | Carriage        | 2        |
 
+## Interactive Model
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a445e29e12d5f773e3?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## Code
 
 The code for the Arduino used can be found [here](https://github.com/theannachen/DFArduinoCode)
