@@ -2,14 +2,14 @@
 title: "Syringe Pump"
 excerpt: "3D printed syringe pump capable of pumping between 1ml/min and 10ml/min"
 header:
-image: /assets/img/Cyber-Scooter-Banner.jpg
-teaser: /assets/img/Cyber-Scooter-TH.jpg
+image: /assets/img/SyringeIRL.png
+teaser: /assets/img/SyringeIRL.png
 gallery:
-- url: /assets/img/Cyber-Scooter-1.jpg
-  image_path: assets/img/Cyber-Scooter-1.jpg
+- url: /assets/img/SyringeIRL.png
+  image_path: assets/img/SyringeIRL.png
   alt: "Real life syringe pump"
-- url: /assets/img/Cyber-Scooter-2.jpg
-  image_path: assets/img/Cyber-Scooter-2.jpg
+- url: /assets/img/SyringeRender.png
+  image_path: assets/img/SyringeRender.png
   alt: "Syringe pump render"
 ---
 
