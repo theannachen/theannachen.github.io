@@ -19,9 +19,9 @@ feature_row:
     title: "Tetris"
     excerpt: "Fun Block Game"
   - image_path: assets/img/minecraft.jpg
-  - alt: "minecraft"
+    alt: "minecraft"
     title: "Modded Minecraft"
     excerpt: "Another fun block game"
 ---
-{% include feature_row %}
+({% include feature_row %})
 
