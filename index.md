@@ -8,6 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
+excerpt: "Anna Chen a software engineer with interests in web development and speedrunning 2048"
 ---
 Testing
 
