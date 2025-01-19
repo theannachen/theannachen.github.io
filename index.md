@@ -24,5 +24,6 @@ feature_row:
     excerpt: "Another fun block game"
 ---
 Testing
-{% include feature_row %}
+
+[//]: # ({% include feature_row %})
 
