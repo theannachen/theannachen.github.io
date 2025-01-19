@@ -23,5 +23,5 @@ feature_row:
     title: "Modded Minecraft"
     excerpt: "Another fun block game"
 ---
-({% include feature_row %})
+{% include feature_row %}
 
