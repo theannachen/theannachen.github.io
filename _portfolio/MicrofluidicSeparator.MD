@@ -2,8 +2,8 @@
 title: "Microfluidic Separator"
 excerpt: "Microfluidic Separator capable of separating particles between and "
 header:
-image: /assets/img/SyringeIRL.png
-teaser: /assets/img/SyringeIRL.png
+  image: /assets/img/MicrofluidicFusionSS.png
+  teaser: /assets/img/MicrofluidicFusionSS.png
 gallery:
 - url: /assets/img/mold-black.png
   image_path: assets/img/mold-black.png
