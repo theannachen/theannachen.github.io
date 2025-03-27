@@ -2,8 +2,8 @@
 title: "Multi-Materials Pliers"
 excerpt: "TPU and PLA filament printed pliers that are ready to use right after printing."
 header:
-image: /assets/img/final-pliers.png
-teaser: /assets/img/final-pliers.png
+  image: /assets/img/final-pliers.png
+  teaser: /assets/img/final-pliers.png
 gallery:
 - url: /assets/img/first-pliers.png
   image_path: assets/img/first-pliers.png
@@ -27,8 +27,7 @@ PIP has been employed across various domains to produce functional and intricate
 
 Mechanical Assemblies: Designers have crafted gear bearings that operate smoothly without post-print assembly, showcasing the potential for creating functional mechanical components in one go. 
 
-Collapsible Tools and Toys: Innovative designs like collapsing katanas and flexible animal models demonstrate PIP's capability to produce articulated and foldable items, enhancing both utility and entertainment value.
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.printables.com%2Fmodel%2F301093-flexidinos-gunther-the-flexi-stegosaurus-print-in&psig=AOvVaw21_Gq1xWY_KATYERY5qLuN&ust=1743131613129000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCagLilqYwDFQAAAAAdAAAAABAn)
+Collapsible Tools and Toys: Innovative designs like collapsing katanas and flexible animal models demonstrate PIP's capability to produce articulated and foldable items, allowing movable parts with ease.
 
 Functional Household Items: PIP has been utilized to create items such as spring-loaded boxes and sliding bolt locks, offering practical solutions that are ready to use immediately after printing. 
 
