@@ -14,8 +14,8 @@ gallery:
 - url: /assets/img/final-pliers.png
   image_path: assets/img/final-pliers.png
   alt: "Final Pair of Pliers"
-- url: /assets/img/second-pliers.gif
-  image_path: assets/img/Ssecond-pliers.gif
+- url: /assets/img/final-pliers.gif
+  image_path: assets/img/final-pliers.gif
   alt: "Gif of Final Pair of Pliers"
 ---
 # Print-in-Place Tools
@@ -70,3 +70,5 @@ For the final design, I printed one with even more distance between the handles,
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4af75bd8c8ef1f120?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 The final pliers can open to 14mm wide and close all the way, with a 23mm are that closes all the way along with a total jaw length of 75 mm.
+
+{% include gallery caption="Iterations of pliers" %}
