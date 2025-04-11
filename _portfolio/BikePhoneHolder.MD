@@ -20,6 +20,9 @@ gallery:
 - url: /assets/img/4.png
   image_path: assets/img/4.png
   alt: "Clamp"
+- url: /assets/img/analysis.png
+  image_path: assets/img/analysis.png
+  alt: "Analysis of locking rotation mechanism"
 - url: /assets/img/real-life.png
   image_path: assets/img/real-life.png
   alt: "Printed In Use"
