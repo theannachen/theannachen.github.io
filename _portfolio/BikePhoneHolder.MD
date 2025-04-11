@@ -2,8 +2,8 @@
 title: "Top Down Modeling"
 excerpt: "Top down modeling demonstration for phone holder for your bike"
 header:
-image: /assets/img/render.png
-teaser: /assets/img/render.png
+  image: /assets/img/render.png
+  teaser: /assets/img/render.png
 gallery:
 - url: /assets/img/render.png
   image_path: assets/img/render.png
@@ -30,7 +30,6 @@ gallery:
   image_path: assets/img/trimmed.gif
   alt: "Working Gif"
 ---
-# Top Down Modeling
 If you've worked in any CAD software, you're probably familiar with the option to import past models into a new file to use it as an external component. This allows you to create assemblies of multiple parts to make sure everything fits together. 
 However, if you're creating multiple parts in their own files, you either have to create driven dimensions or keep copying and pasting the same parameters between parts, making it very easy for you to mess up and forcing you to keep track of multiple files and components. Furthermore, each time you edit a feature, you have to update it in the assemblies to catch it up. Wouldn't it be nice to be able to create all the parts in the same file?
 With top down assembly, that is possible! Create all your parts in the same file, separated by components. You can project geometries between components for easy sketching, use the same parameters between components, and still assemble them using joints just like a normal assembly. The only downside is managing the sketches and extrusions, making sure that you are always in the active component you want before adding sketches and extrusions and making sure that all components are in the right parent component. 
