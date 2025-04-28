@@ -2,8 +2,8 @@
 title: "Generative Design"
 excerpt: "Utilizing Generative Design to create a spool holder"
 header:
-image: /assets/img/Converged.png
-teaser: /assets/img/Converged.png
+  image: /assets/img/Converged.png
+  teaser: /assets/img/Converged.png
 gallery:
 - url: /assets/img/Preserves-NoSpool.png
   image_path: assets/img/Preserves-NoSpool.png
@@ -48,6 +48,7 @@ For the generative design to work, it must first be defined with certain loads a
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4d9689d9cf6045f56?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 **Forces Table**
+
 | Force Name         | Magnitude                      | Location                                                                  | Rationale                                                                                          |
 | ------------------ | ------------------------------ | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | Gravity            | Automatic                      | Whole Body                                                                | Needed for build to stay together                                                                  |
